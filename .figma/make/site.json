@@ -1,0 +1,10 @@
+{
+  "description": "This platform enables digital-asset investors to form specialized Wyoming LLCs, offering privacy, asset protection, and transparent pricing without hidden fees.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
