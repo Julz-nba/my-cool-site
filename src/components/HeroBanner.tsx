@@ -1,5 +1,5 @@
-import dagLogo from "@/imports/Visit_TikTok_to_discover_profiles_.jpg";
-import warriorLogo from "@/imports/Visit_TikTok_to_discover_profiles___1_.jpg";
+import dagLogo from "./Imports/Visit_TikTok_to_discover_profiles_.jpg";
+import warriorLogo from "./Imports/Visit_TikTok_to_discover_profiles___1_.jpg";
 
 const GOLD = "#C9A227";
 const NAVY = "#0B1F3A";
