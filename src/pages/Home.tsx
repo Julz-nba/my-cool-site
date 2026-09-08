@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import BlockchainHero from "../components/BlockchainHero";
+import HeroBanner from "../components/HeroBanner";
 
 const NAVY = "#0B1F3A";
 const GOLD = "#C9A227";
@@ -354,7 +354,7 @@ const testimonials = [
     role: "Multi-chain Portfolio Manager",
   },
   {
-    quote: "Privacy was my top concern. Digital Ascension Group structured everything so my name doesn't appear on any public document.",
+    quote: "Privacy was my top concern. Crypto Asset Vault structured everything so my name doesn't appear on any public document.",
     name: "Jordan K.",
     role: "Bitcoin Holder",
   },

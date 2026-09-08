@@ -54,7 +54,7 @@ export default function SignUp() {
         >
           <div className="text-center mb-8">
             <Link to="/" className="text-xl font-black tracking-tight block mb-6">
-              <span style={{ color: NAVY }}>Digital Ascension </span><span style={{ color: GOLD }}>Group</span>
+              <span style={{ color: NAVY }}>Crypto Asset </span><span style={{ color: GOLD }}>Vault</span>
             </Link>
             <h1 className="text-2xl font-black mb-2" style={{ color: NAVY }}>Create your account</h1>
             <p className="text-sm" style={{ color: "#6B7280" }}>Start protecting your digital assets today.</p>

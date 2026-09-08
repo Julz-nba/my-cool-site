@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
           <div className="md:col-span-2">
             <span className="text-white font-black text-xl tracking-tight">
-              Digital Ascension <span style={{ color: "#C9A227" }}>Group</span>
+              Crypto Asset<span style={{ color: "#C9A227" }}>Vault</span>
             </span>
             <p className="text-white/50 text-sm mt-3 max-w-xs leading-relaxed">
               Specialized Wyoming LLC formation for digital-asset investors. Privacy, asset protection, and crypto-specific operating agreements.
@@ -31,7 +31,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-white/30 text-xs">© 2025 Digital Ascension Group. Not a law firm. Not legal advice. All rights reserved.</p>
+          <p className="text-white/30 text-xs">© 2025 Crypto Asset Vault. Not a law firm. Not legal advice. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="text-white/30 hover:text-white/60 text-xs transition-colors">Privacy Policy</a>
             <a href="#" className="text-white/30 hover:text-white/60 text-xs transition-colors">Terms of Service</a>

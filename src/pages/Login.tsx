@@ -59,7 +59,7 @@ export default function Login() {
         >
           <div className="text-center mb-8">
             <Link to="/" className="text-xl font-black tracking-tight block mb-6">
-              <span style={{ color: NAVY }}>Digital Ascension </span><span style={{ color: GOLD }}>Group</span>
+              <span style={{ color: NAVY }}>Crypto Asset</span><span style={{ color: GOLD }}>Vault</span>
             </Link>
             <h1 className="text-2xl font-black mb-2" style={{ color: NAVY }}>Welcome back</h1>
             <p className="text-sm" style={{ color: "#6B7280" }}>Log in to access your assets.</p>

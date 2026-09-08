@@ -12,7 +12,7 @@ export default function Nav() {
       <div className="max-w-[1120px] mx-auto w-full flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
           <span className="text-white font-black text-xl tracking-tight">
-            Digital Ascension <span style={{ color: "#C9A227" }}>Group</span>
+            Crypto Asset <span style={{ color: "#C9A227" }}>Vault</span>
           </span>
         </Link>
 
