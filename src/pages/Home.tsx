@@ -63,7 +63,7 @@ export default function Home() {
             className="flex-1 min-w-0 w-full lg:max-w-[480px] rounded-2xl overflow-hidden"
             style={{ height: 440, border: "1px solid rgba(201,162,39,0.2)", backgroundColor: "rgba(255,255,255,0.03)" }}
           >
-            <BlockchainHero />
+            <HeroBanner />
           </div>
         </div>
 
